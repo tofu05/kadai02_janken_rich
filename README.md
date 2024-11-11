@@ -6,7 +6,7 @@
 - 3回勝ったら画像が画像が表示されるようにしました
 
 ## ③DEMO
-- ht
+- https://tofu05.github.io/kadai02_janken_rich/
 
 ## ④作成アプリのIDまたはPW
 - ID/PASSなし
