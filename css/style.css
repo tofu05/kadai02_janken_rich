@@ -1,0 +1,21 @@
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.imgg{
+    width: 500px;
+    height: auto;
+}
+
+.button img{
+    width: 100px;
+    height: auto;
+}
